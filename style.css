@@ -1,0 +1,44 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgb(0, 183, 255);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+#container {
+  background-color: aliceblue;
+  padding: 30px;
+  margin-top: 100px;
+  width: 300px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.button-currency {
+  width: 100px;
+}
+
+#img-currencies {
+  display: block;
+  width: 60px;
+  margin: 0 auto;
+}
+
+#img-converter {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 30px;
+}
+
+.exchange-rate {
+  margin-top: 20px;
+}
