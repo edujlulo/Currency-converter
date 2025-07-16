@@ -27,6 +27,7 @@ body {
 
 h1 {
   font-size: 25px;
+  color: #132020;
 }
 
 .button-currency {
@@ -37,6 +38,7 @@ h1 {
   display: block;
   width: 60px;
   margin: 0 auto;
+  color: #132020;
 }
 
 #img-converter {
@@ -44,8 +46,10 @@ h1 {
   margin: 0 auto;
   margin-top: 20px;
   width: 30px;
+  color: #132020;
 }
 
 .exchange-rate {
   margin-top: 20px;
+  color: #132020;
 }
